@@ -1,0 +1,27 @@
+{
+    "success": true,
+    "deck_id": "cbcjr5t5nt27",
+    "cards": [
+        {
+            "code": "0D",
+            "image": "https://deckofcardsapi.com/static/img/0D.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/0D.svg",
+                "png": "https://deckofcardsapi.com/static/img/0D.png"
+            },
+            "value": "10",
+            "suit": "DIAMONDS"
+        },
+        {
+            "code": "KD",
+            "image": "https://deckofcardsapi.com/static/img/KD.png",
+            "images": {
+                "svg": "https://deckofcardsapi.com/static/img/KD.svg",
+                "png": "https://deckofcardsapi.com/static/img/KD.png"
+            },
+            "value": "KING",
+            "suit": "DIAMONDS"
+        }
+    ],
+    "remaining": 48
+}
